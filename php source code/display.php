@@ -1,0 +1,3 @@
+<?php
+print "display.php";
+?>
